@@ -1,0 +1,8 @@
+parameters:
+    cloudstack_configs:
+        ams_dc_01:
+            api_url: "http://cloud_stack_url/client/api"
+            api_key: "api_key_here"
+            secret_key: "secret_key_here"
+            sso_enabled: false
+            sso_key: ""
